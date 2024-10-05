@@ -1,1 +1,2 @@
 # Yue-Colocalization
+#This repository provides a comprehensive step-by-step guide for conducting confocal image analysis, focusing on the co-localization of Na/K-ATPase and FLAG-tagged OATP1B1 proteins. The workflow encompasses image conversion, refinement, substack creation, and final colocalization analysis using the BIOP JACoP plugin in Fiji (ImageJ).
