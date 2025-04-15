@@ -1,2 +1,2 @@
-# Yue-Colocalization
-This repository provides a comprehensive step-by-step guide for conducting confocal image analysis. The workflow encompasses image conversion, refinement, substack creation, and final colocalization analysis using the BIOP JACoP plugin in Fiji (ImageJ).
+# Automated workflow in Fiji ImageJ for batch analysis of confocal imaging data to quantify protein colocalization using Manders coefficient
+This repository provides a comprehensive step-by-step guide for conducting confocal image analysis. The workflow encompasses image conversion, refinement, substack creation, and final colocalization analysis using the BIOP JACoP plugin in Fiji (ImageJ). The citation of the full protocol is Aditya, V., Tambe V., and Yue, W., Development of novel automated workflow in Fiji ImageJ for batch analysis of confocal imaging data to quantify protein colocalization using Manders coefficient, Bio-Protocol, 2025, 15(7): e5285, PMCID: PMC11986846 
